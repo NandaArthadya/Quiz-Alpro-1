@@ -1,0 +1,14 @@
+       STRUK SPBU UAD 
+======================================
+PERTALITE[1]	 PERTAMAX[2]
+ Nama Pembeli : aldo
+ Jenis Bensin : 2
+ Jumlah Liter : 3
+--------------------------------------
+ Total Harga      : 27000
+ Bayar            : 100000
+ Kembalian        : 73000
+======================================
+   TERIMA KASIH ATAS KUNJUNGAN ANDA
+    SEMOGA HARI ANDA MENYENANGKAN:)
+======================================
